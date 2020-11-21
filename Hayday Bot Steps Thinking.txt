@@ -1,0 +1,30 @@
+Things to think about
+- Wheat grows in 2 minutes, Free Advertise regens every 5 min
+
+0) Recenter Screen
+- Click RSS
+- Click Left Person (Wait)
+- Click X
+- Press Home
+- Ctrl + DownScroll (Twice?)
+
+1) Plant
+- Check to see if land is open If so continue, If not go to Harvest (Greyscale check? Color Check? Image Recognition?
+- Click bottom left plot
+- Click and Hold Wheat Icon
+- Drag back to bottom left plot
+- Drag up, to the right, down, yadada until all wheat is planted
+- Click RSS, If empty go to 3, If Wheat is there close shop, If wheat is sold go to 3
+
+2) Harvest
+- Click bottom left plot
+- Click and Hold Sickle Icon
+- Drag back to bottom left plot
+- Drag up, to the right, down, yadada until all wheat is Harvested
+- Go back to PLANT
+
+3) Sell
+- If empty click on box, click wheat, advertise first one?, repeat for all slots on screen (eventually add a slide to do all slots in shop)
+- If not empty, close and go to 0
+
+4) Repeat
